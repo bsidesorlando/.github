@@ -42,12 +42,7 @@ Browse our public repositories and contribute to projects like our [badge code](
 
 ## Florida Security Community
 
-BSides Orlando is part of a broader security community in Florida. Check out other BSides events in the state:
-
-- [BSides Tampa](https://bsidestampa.org)
-- [BSides Jacksonville](https://bsidesjax.org)
-
-> **Want to add your Florida security community or event?** See our [Florida Security Community](FLORIDA_COMMUNITY.md) page — PRs welcome!
+BSides Orlando is part of a broader security community in Florida. Check out other events and meetups in the state: [Florida Security Community](FLORIDA_COMMUNITY.md) page — PRs welcome!
 
 ## New to Security?
 
