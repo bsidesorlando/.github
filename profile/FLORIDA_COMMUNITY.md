@@ -6,13 +6,16 @@ A community-maintained list of security events, groups, and resources in Florida
 
 ---
 
-## BSides Events
+## Security BSides Events
+- [BSides ICS/OT](https://www.bsidesics.org)
+- [BSides Jacksonville](https://bsidesjax.org)
+- [BSides Orlando](https://bsidesorlando.org)
+- [BSides Pensacola](https://bsidespensacola.org)
+- [BSides South Florida](https://bsidessouthflorida.org)
+- [BSides St. Pete](https://www.bsidesstpete.com)
+- [BSides SWFL](https://bsidesswfl.org)
+- [BSides Tampa](https://bsidestampa.net)
 
-| Event | Location | Website |
-|-------|----------|---------|
-| BSides Jacksonville | Jacksonville | [bsidesjax.org](https://bsidesjax.org) |
-| BSides Orlando | Orlando | [bsidesorlando.org](https://bsidesorlando.org) |
-| BSides Tampa | Tampa | [bsidestampa.org](https://bsidestampa.org) |
 
 ## Meetups & User Groups
 
